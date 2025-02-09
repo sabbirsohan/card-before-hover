@@ -8,7 +8,6 @@ main{
     width: 20%;
     height: auto;
     margin: auto;
-    margin-top: 2%;
     border: 1px solid;
     border-radius: 25px;
     overflow: hidden;
@@ -26,7 +25,7 @@ main{
 
 
  h1{
-    font-size: 200%;
+    font-size: 30px;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
@@ -35,8 +34,8 @@ main{
     text-align: justify;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 10px 15px;
-    font-size: 1.2rem;
-    line-height: 25px;
+    font-size: 1rem;
+    line-height: 20px;
  }
 
  button{
